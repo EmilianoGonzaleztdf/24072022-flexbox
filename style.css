@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(254, 251, 246);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#body1 {
+  background-color: rgb(166, 209, 230);
+}
+#body2 {
+  background-color: rgb(127, 82, 131);
+}
+#pie {
+  background-color: rgb(61, 60, 66);
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 30px;
+  color: black;
+}
+.logo > img {
+  height: 20vh;
+  margin-left: 3vw;
+}
+.menu1 {
+  display: flex;
+  padding: 10px;
+  border: 2px solid rgb(254, 251, 246);
+}
+.menu1 li {
+  width: 100px;
+  margin: 10px;
+  text-align: end;
+  font-size: 20px;
+}
